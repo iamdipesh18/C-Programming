@@ -1,1 +1,1 @@
-In this repository, you will find a collection of programs I've written during my Bachelor's in Computer Engineering, particularly focusing on control statements. These programs cover a variety of topics and concepts, helping me strengthen my skills in C programming.
+In this repository, you will find a collection of programs I've written, particularly focusing on control statements. These programs cover a variety of topics and concepts, helping me strengthen my skills in C programming.
